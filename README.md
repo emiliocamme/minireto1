@@ -1,4 +1,4 @@
-#Mini reto 1
+# Mini reto 1
 * Create a talker and listener node
 * Create a URDF file with the provided meshes
 * Upload the URDF to ROS2
