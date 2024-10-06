@@ -1,0 +1,4 @@
+[console_scripts]
+dynamic = urdf_tutorial_r2d2.dynamic:main
+static = urdf_tutorial_r2d2.static:main
+
